@@ -5,3 +5,4 @@ gemspec
 
 gem 'debugger'
 gem 'rake'
+gem 'rspec'
