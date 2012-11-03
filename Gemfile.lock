@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    orchestra (0.0.1)
+    orchestra (0.0.2)
       mixlib-cli
 
 GEM
