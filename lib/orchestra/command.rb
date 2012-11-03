@@ -1,4 +1,4 @@
 module Orchestra
-  class Command
+  module Command
   end
 end
